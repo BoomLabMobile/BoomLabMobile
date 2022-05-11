@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gLab-git, my name is Iago S. Silva
+- 👋 Hi, I’m @BoomLabMobile, my name is Iago S. Silva
 - 👀 I’m interested in mobile development
 - 🌱 I’m always learning Dart and Flutter
 - 💞️ I’m looking to collaborate on projects in Flutter
